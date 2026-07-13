@@ -20,6 +20,7 @@ Here is a detailed breakdown of the 5 completed tasks available in this reposito
 ### 1. 📂 [Task 1: To-Do List](To-Do-List)
 * **Description:** A console-based task manager application that allows users to add, view, track, and delete tasks dynamically.
 * **Key Learning:** Working with Python lists/dictionaries, tracking item states, and managing lists in terminal apps.
+* [PICTURE](https://github.com/Ashish-tech09/CodeSoft_internship_tasks/blob/my-new-branch/To-Do-List/Screenshot%202026-07-12%20174741.png)
 
 ### 2. 📂 [Task 2: Calculator](Calculator)
 * **Description:** A simple arithmetic calculator capable of handling operations like addition, subtraction, multiplication, and division based on user input.
