@@ -1,5 +1,9 @@
 # CODSOFT Python Internship
 
+## Full detail of all tasks
+
+[README.md](https://github.com/Ashish-tech09/CodeSoft_internship_tasks/blob/my-new-branch/README.md)
+
 ## Tasks Completed
 
 1. [To-Do-List](https://github.com/Ashish-tech09/CodeSoft_internship_tasks/tree/my-new-branch/To-Do-List)
