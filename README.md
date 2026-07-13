@@ -34,19 +34,7 @@ Here is a detailed breakdown of the 5 completed tasks available in this reposito
 * **Key Learning:** Game loops, conditional win/loss evaluation, and implementing a basic computerized opponent using `random.choice()`.
 
 ### 5. 📂 [Task 5: Contact Book](Contact_Book)
-* **Description:** A simple information system to save, view, edit, search, and delete contact details (Name, Phone, Email).
+* **Description:** A simple information system to save, view, edit, search, and delete contact details (Name, Phone, Email, Address).
 * **Key Learning:** Complex data representation using nested dictionaries or classes, string search algorithms, and managing structured user profiles.
 
----
 
-## 🚀 Getting Started & How to Run
-
-To run any of these projects locally on your computer, follow these steps:
-
-### Prerequisites
-Make sure you have **Python 3** installed on your system.
-
-### Step 1: Clone the Repository
-```bash
-git clone -b my-new-branch [https://github.com/Ashish-tech09/CodeSoft_internship_tasks.git](https://github.com/Ashish-tech09/CodeSoft_internship_tasks.git)
-cd CodeSoft_internship_tasks
